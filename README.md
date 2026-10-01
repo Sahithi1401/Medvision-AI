@@ -40,7 +40,7 @@ api_key = "your_api_key_here"</pre>
         </div>
 
         
-👨‍💻 Author- Shibam, Balaji
+👨‍💻 Author- Sahithi, Balaji.
 
         
 
